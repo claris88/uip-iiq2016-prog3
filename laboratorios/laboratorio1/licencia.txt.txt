@@ -1,0 +1,38 @@
+Debian
+La licencia Debian es parte del contrato realizado entre Debian y la comunidad de usuarios de software libre, y se denomina Debian Free Software Guidelines (DFSG). En esencia, esta licencia contiene criterios para la distribución que incluyen, además de la exigencia de publicación del código fuente: 
+a la redistribución libre ; 
+b el código fuente debe ser incluido y debe poder ser redistribuido; 
+c todo trabajo derivado debe poder ser redistribuido bajo la misma licencia del original; 
+d puede haber restricciones en cuanto a la redistribución del código fuente, si el original fue modificado; 
+e la licencia no puede discriminar a ninguna persona o grupo de personas, así como tampoco ninguna forma de utilización del software; 
+f los derechos otorgados no dependen del sitio en el que el software se encuentra; y 
+g la licencia no puede 'contaminar' a otro software. 
+
+Las directrices de software libre de Debian (DFSG)
+
+Libre redistribución
+La licencia de un componente de Debian no puede restringir a un tercero el vender o entregar el programa como parte de una distribución mayor que contiene programas de diferentes fuentes. La licencia no debe solicitar «royalties» u otras comisiones para su venta.
+
+Código fuente
+El programa debe incluir el código fuente completo, y debe permitir la distribución en forma de código fuente y en forma compilada (binario).
+
+Trabajos derivados
+La licencia debe permitir modificaciones y trabajos derivados y debe permitir que estos se distribuyan bajo los mismos términos que la licencia del programa original.
+
+Integridad del código fuente del autor
+La licencia puede restringir la distribución del código fuente en forma modificada sólo si la licencia permite la distribución de parches (patch files) para poder modificar el código fuente original del programa en el momento de compilarlo. La licencia debe permitir explícitamente la distribución de software a partir de código fuente modificado. La licencia puede obligar a los trabajos derivados a llevar un nombre o número de versión diferentes del programa original Esto es un compromiso. El grupo de Debian anima a todos los autores a no restringir ningún fichero, fuente o compilado, de ser modificado.
+
+No discriminación contra personas o grupos
+La licencia no debe discriminar a ninguna persona o grupo de personas.
+
+No discriminación en función de la finalidad perseguida
+La licencia no puede restringir el uso del programa para una finalidad determinada. Por ejemplo, no puede restringir el uso del programa a empresas con fines comerciales, o en investigación genética.
+
+Distribución de la licencia
+Los derechos y libertades de uso asociados al programa deben aplicarse en la misma forma a todos aquellos a los que se redistribuya el programa, sin necesidad de pedir una licencia adicional para estas terceras partes.
+
+La licencia no ha de ser específica para Debian
+Los derechos asociados al programa no deben depender de que el programa sea parte o no del sistema Debian. Si el programa es extraído de Debian y usado o distribuido sin Debian, pero manteniendo el resto de las condiciones de la licencia, todos aquellos a los que el programa se redistribuya deben tener los mismos derechos que los dados cuando forma parte de Debian.
+
+La licencia no debe contaminar a otros programas
+La licencia no debe poner restricciones sobre otros programas que se distribuyan junto con el programa licenciado. Por ejemplo, la licencia no puede insistir que todos los demás programas distribuidos sobre el mismo medio deben ser software libre.
